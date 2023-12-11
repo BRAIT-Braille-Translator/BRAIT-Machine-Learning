@@ -14,11 +14,11 @@ We collect the data from the GitHub repository "AeyeAlliance"
 ## 3. Data Preparation
 After collecting the dataset, we do preparation data by cleaning the image that not suitable for our model, such as deleting and crop the image that still can be use
 ### Link To Dataset
-- [Braille Dataset](https://github.com/BRAIT-Braille-Translator/BRAIT-Machine-Learning/tree/main/dataset)
+- [Braille Dataset](https://github.com/BRAIT-Braille-Translator/BRAIT-Machine-Learning/tree/main/BrailleDataset)
 
 ## 4. Preprocessing Data
 We use image augmentation to the original images to create additional training samples to expanding the training data with diverse variations and to reduce overfiting
-- [Preprocessing Data](https://github.com/BRAIT-Braille-Translator/BRAIT-Machine-Learning/blob/main/Preprocessing.ipynb)
+- [Preprocessing Data](https://github.com/BRAIT-Braille-Translator/BRAIT-Machine-Learning/blob/main/Braille%20Model/preprocessing.ipynb)
 
 ## 5. Create Models and Training the Data
 
