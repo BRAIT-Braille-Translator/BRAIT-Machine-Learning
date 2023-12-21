@@ -23,7 +23,6 @@ We use image augmentation to the original images to create additional training s
   
 <a href="Dataset Distribution" target="blank"><img align="center" src="https://github.com/BRAIT-Braille-Translator/BRAIT-Machine-Learning/blob/main/Documentation/Dataset.jpg" height="400" width="700" /></a>
 
-- [Preprocessing Data](https://github.com/BRAIT-Braille-Translator/BRAIT-Machine-Learning/blob/main/Braille%20Model/preprocessing.ipynb)
 
 ## 4. Create Models and Training the Data
 We created Convolutional Neural Network models using PyTorch Framework for Braille Classification
