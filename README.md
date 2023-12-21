@@ -25,6 +25,7 @@ We use image augmentation to the original images to create additional training s
 <a href="Dataset Distribution" target="blank"><img align="center" src="https://github.com/BRAIT-Braille-Translator/BRAIT-Machine-Learning/blob/main/Documentation/Dataset.jpg" height="400" width="700" /></a>
 
 * **Dataset Split**
+  
 We split the data into three folders. Namely train, validation and test. 
 
 <a href="Dataset Split" target="blank"><img align="center" src="https://github.com/BRAIT-Braille-Translator/BRAIT-Machine-Learning/blob/main/Documentation/26%20Braille%20Classes.png" height="100" width="600" /></a>
