@@ -19,6 +19,8 @@ After collecting the dataset, we do preparation data by cleaning the image that 
 
 ## 3. Preprocessing Data
 We use image augmentation to the original images to create additional training samples to expanding the training data with diverse variations and to reduce overfiting. Preprocess the data using Label Encoding imported from sklearn.preprocessing.
+### Link To Preprocessing File
+- [Preprocessing](https://github.com/BRAIT-Braille-Translator/BRAIT-Machine-Learning/blob/main/BRAIT-MODEL/Preprocessing.ipynb)
 
 * **Distribution of The Dataset**
   
@@ -34,6 +36,9 @@ We split the data into three folders. Namely train, validation and test.
 ## 4. Create Models and Training the Data
 We created Convolutional Neural Network models using PyTorch Framework for Braille Classification
 
+### Link BRAIT Model File
+- [BRAIT Model](https://github.com/BRAIT-Braille-Translator/BRAIT-Machine-Learning/blob/main/BRAIT-MODEL/BRAIT_pytorch.ipynb)
+  
 * **Model Summary**
   
 <a href="Model Summary" target="blank"><img align="center" src="https://github.com/BRAIT-Braille-Translator/BRAIT-Machine-Learning/blob/main/Documentation/Model%20Summary.png" height="400" width="700" /></a>
@@ -51,6 +56,10 @@ After training the model, we carry out a model evaluation to ensure that the mod
 
 ## 6. Test The Model
 Testing models in the BRAIT project have an important role in ensuring that the model can work effectively and reliably in Braille translation tasks.
+
+### Link To Testing File
+- [Testing](https://github.com/BRAIT-Braille-Translator/BRAIT-Machine-Learning/blob/main/BRAIT-MODEL/control.ipynb)
+  
 * **BRAIT Model Testing**
   
 <a href="BRAIT Model Testing" target="blank"><img align="center" src="https://github.com/BRAIT-Braille-Translator/BRAIT-Machine-Learning/blob/main/Documentation/PPT%20BRAIT%20(1).png" height="400" width="600" /></a>
